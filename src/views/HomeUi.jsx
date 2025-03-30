@@ -15,7 +15,7 @@ export default function HomeUi() {
                     <Typography sx={{fontSize:'25px',fontWeight:'bold',textAlign:'center', color:'gold',mb:'20px'}}>
                     Tanatorn Site by DTI sau
                     </Typography>
-                    <Button component={Link} to='/login' variant='contained'sx={{mb:'30px',display:'block',mx:'auto',width:'200px',backgroundColor:'red',textAlign:'center'}}>
+                    <Button component={Link} to='/login' variant='contained'sx={{mb:'30px',display:'block',mx:'auto',width:'200px',backgroundColor:'blue',textAlign:'center'}}>
                         ไปหน้า Login
                     </Button>
                 </Box>
